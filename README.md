@@ -86,7 +86,7 @@ $ cat about.txt
 
 [![GitHub](https://img.shields.io/badge/GitHub-faisalchhipa-0d1117?style=for-the-badge&logo=github&logoColor=ff3b3b)](https://github.com/faisalchhipa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chhipa-faisal-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chhipa-faisal-1a9756374/)
+[LinkedIn profile](https://www.linkedin.com/in/chhipa-faisal-1a9756374/)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-chhipafaisal20-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b)](https://tryhackme.com/p/chhipafaisal20)
 
