@@ -88,6 +88,8 @@ $ cat about.txt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chhipa-faisal-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chhipa-faisal-1a9756374/)
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-chhipafaisal20-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b)](https://tryhackme.com/p/chhipafaisal20)
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:7a0000,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
