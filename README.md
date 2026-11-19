@@ -1,107 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,45:102a43,100:143d3b&height=210&section=header&text=CHHIPA%20MOHAMMAD%20FAISAL%20YUNUSHBHAI&fontSize=30&fontColor=eaf2f8&animation=fadeIn&fontAlignY=38" alt="Profile banner" width="100%" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · faisalchhipa</sub></p>
+<h1>CHHIPA MOHAMMAD FAISAL YUNUSHBHAI</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Cybersecurity student focused on practical security Vulnerability assessment, SOC fundamentals &amp; incident analysis Documenting my learning through projects &amp; lab</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-# Hey 👋, I'm CHHIPA MOHAMMAD FAISAL YUNUSHBHAI
-
-### 🛡️ Cybersecurity Student · Network Security · Ethical Hacking Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=57C7FF&center=true&vCenter=true&width=700&lines=Learning+Cybersecurity+through+hands-on+labs;Building+home+labs+with+VMware%2C+Kali+Linux+%26+Windows+Server;Strengthening+my+network+security+fundamentals" alt="Typing introduction" />
-
-<img src="https://komarev.com/ghpvc/?username=faisalchhipa&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="Profile views" />
-
+<p><a href="https://github.com/faisalchhipa">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/257514642?u=79d6bcfb3941a005781ac8ff8e3350e8dfafdda7&amp;v=4" width="180" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 📌 About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 5 active days</p></td>
+</tr>
+</table>
 
-🎓 BSc IT student focused on **Architecture & Network Security**.  
-🛡️ Passionate about cybersecurity, practical learning, and building a strong technical foundation.  
-🖥️ I build home labs with **VMware, Kali Linux, and Windows Server**.  
-🌱 Currently learning **Windows Event Logs, Active Directory, Windows Server, networking, Python, Linux, and ethical hacking**.
+<p><sub>Cybersecurity student focused on practical security Vulnerability assessment, SOC fundamentals &amp; incident analysis Documenting my learning through projects &amp; lab</sub></p>
 
-> 🎯 **My goal:** Grow into a cybersecurity professional through hands-on labs, continuous learning, and solid fundamentals.
+<h2>Proof at a glance</h2>
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faisalchhipa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=57c7ff&icon_color=9b7cff&text_color=e6edf3" alt="GitHub profile statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=faisalchhipa&hide_border=true&background=0D1117&ring=9B7CFF&fire=57C7FF&currStreakLabel=57C7FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalchhipa&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchhipa&layout=compact&hide_border=true&bg_color=0d1117&title_color=57c7ff&text_color=e6edf3" alt="Most used languages" />
-</div>
-
----
-
-## 🧰 Languages & Tools
-
-### Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Windows and Linux" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stats-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stats-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI GitHub proof metrics" />
+</picture>
 </p>
 
-### Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;repos=faisalchhipa%2Fgenai-event-planner%2Cfaisalchhipa%2Fportfolio%2Cfaisalchhipa%2Ffaisalchhipa&amp;v=recruiter-projects-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;repos=faisalchhipa%2Fgenai-event-planner%2Cfaisalchhipa%2Fportfolio%2Cfaisalchhipa%2Ffaisalchhipa&amp;v=recruiter-projects-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/faisalchhipa/genai-event-planner">genai-event-planner</a></h3>
+<p>GenAI event Planner</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/faisalchhipa/genai-event-planner">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/faisalchhipa/portfolio">portfolio</a></h3><p>Personal portfolio website built with Next.js</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/faisalchhipa/faisalchhipa">faisalchhipa</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stack-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stack-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI technology stack" />
+</picture>
 </p>
 
-### Virtualization & Lab
-<p>
-  <img src="https://skillicons.dev/icons?i=vmware" alt="VMware" />
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>52% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI contribution activity" />
+</picture>
 </p>
 
-### Security & Networking Tools
+<hr />
 
-`Nmap` · `Wireshark` · `Metasploit Framework` · `Hydra` · `Cisco Packet Tracer`
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/faisalchhipa">GitHub</a></td>
+</tr>
+</table>
 
----
-
-## 🏠 Home Lab
-
-- Windows Server 2019 and Windows 10
-- Active Directory and DNS configuration
-- IIS web server
-- VMware Workstation
-
-## 📚 Learning Platforms
-
-TryHackMe · Hackviser
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalchhipa&bg_color=0d1117&color=e6edf3&line=57c7ff&point=9b7cff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/faisalchhipa">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chhipa-faisal-1a9756374/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>
-</div>
-
-<div align="center">
-
-> 💭 “Learning never stops. Every lab is one step closer to becoming a better cybersecurity professional.”
-
-⭐ Thanks for visiting my profile! ⭐
-
-</div>
+<p align="center"><sub>CHHIPA MOHAMMAD FAISAL YUNUSHBHAI · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
