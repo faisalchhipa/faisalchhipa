@@ -1,114 +1,97 @@
+<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · faisalchhipa</sub></p>
-<h1>CHHIPA MOHAMMAD FAISAL YUNUSHBHAI</h1>
-<h2>Cybersecurity student</h2>
-<p>Cybersecurity student focused on practical security Vulnerability assessment, SOC fundamentals &amp; incident analysis Documenting my learning through projects &amp; lab</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7a0000,100:ff1a1a&height=240&section=header&text=CHHIPA%20MOHAMMAD%20FAISAL&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Red%20Team%20%E2%80%A2%20SOC%20%E2%80%A2%20Bug%20Hunting%20%E2%80%A2%20Security%20Research&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-<p><a href="https://github.com/faisalchhipa">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/257514642?u=79d6bcfb3941a005781ac8ff8e3350e8dfafdda7&amp;v=4" width="180" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI GitHub avatar" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/faisalchhipa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=root%40faisal%3A~%23+whoami;Aspiring+Red+Teamer;SOC+Analyst+in+the+making;Bug+Hunter+%7C+Security+Researcher;Hack.+Learn.+Repeat." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=faisalchhipa&label=Profile+Views&color=red&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/faisalchhipa?style=for-the-badge&logo=github&color=red)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Cybersecurity · Vulnerability assessment · SOC fundamentals</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 5 active days</p></td>
-</tr>
-</table>
+## 📌 About Me
 
-<p><sub>Cybersecurity student focused on practical security Vulnerability assessment, SOC fundamentals &amp; incident analysis Documenting my learning through projects &amp; lab</sub></p>
+```bash
+$ cat about.txt
+```
 
-<h2>Proof at a glance</h2>
+> 🔴 Interested in **Red Teaming**, **SOC (Blue Team)**, **Bug Hunting** and **Security Research**.
+>
+> 🎓 Currently studying: **BSc IT (Architecture & Network Security)**.
+>
+> 🌱 Learning something new in cybersecurity every day.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+---
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stats-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stats-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI GitHub proof metrics" />
-</picture>
-</p>
+## 🎯 Focus Areas
 
-<h2>Selected work</h2>
+| 🔴 Red Team | 🛡️ SOC / Blue Team | 🐛 Bug Hunting | 🔬 Research |
+| :---: | :---: | :---: | :---: |
+| Pentesting, Recon, Exploitation | Log Analysis, Monitoring, Incident Response | Web App Vulnerabilities, Bug Bounty | CVEs, Writeups, Tools |
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;repos=faisalchhipa%2Fgenai-event-planner%2Cfaisalchhipa%2Fportfolio%2Cfaisalchhipa%2Ffaisalchhipa&amp;v=recruiter-projects-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;repos=faisalchhipa%2Fgenai-event-planner%2Cfaisalchhipa%2Fportfolio%2Cfaisalchhipa%2Ffaisalchhipa&amp;v=recruiter-projects-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/faisalchhipa/genai-event-planner">genai-event-planner</a></h3>
-<p>GenAI event Planner</p>
-<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/faisalchhipa/genai-event-planner">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/faisalchhipa/portfolio">portfolio</a></h3><p>Personal portfolio website built with Next.js</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/faisalchhipa/faisalchhipa">faisalchhipa</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
+## 📊 GitHub Stats
 
-<h2>Technical toolkit</h2>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalchhipa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchhipa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=faisalchhipa&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stack-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-stack-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI technology stack" />
-</picture>
-</p>
+---
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>52% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>19% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
+## 🛠️ Languages & Tools
 
-<h2>Consistency signal</h2>
+<div align="center">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=faisalchhipa&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257514642%3Fu%3D79d6bcfb3941a005781ac8ff8e3350e8dfafdda7%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="CHHIPA MOHAMMAD FAISAL YUNUSHBHAI contribution activity" />
-</picture>
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff3b3b)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff3b3b)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff3b3b)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff3b3b)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff3b3b)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff3b3b)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff3b3b)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff3b3b)
 
-<hr />
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=ff3b3b)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=ff3b3b)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=ff3b3b)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=ff3b3b)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=ff3b3b)
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/faisalchhipa">GitHub</a></td>
-</tr>
-</table>
+</div>
 
-<p align="center"><sub>CHHIPA MOHAMMAD FAISAL YUNUSHBHAI · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 🗺️ Currently Learning
+
+- 🔴 Web application security testing and bug bounty methodology in authorized environments
+- 🛡️ SOC fundamentals: SIEM, log analysis, threat detection
+- 🐧 Linux, networking and scripting for security
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-faisalchhipa-0d1117?style=for-the-badge&logo=github&logoColor=ff3b3b)](https://github.com/faisalchhipa)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chhipa-faisal-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chhipa-faisal-1a9756374/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:7a0000,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+
+*⚠️ Ethical hacking only. Hack with permission, learn with passion.*
+
+</div>
