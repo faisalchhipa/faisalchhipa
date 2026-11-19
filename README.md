@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · faisalchhipa</sub></p>
 <h1>CHHIPA MOHAMMAD FAISAL YUNUSHBHAI</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Cybersecurity student</h2>
 <p>Cybersecurity student focused on practical security Vulnerability assessment, SOC fundamentals &amp; incident analysis Documenting my learning through projects &amp; lab</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Cybersecurity · Vulnerability assessment · SOC fundamentals</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 5 active days</p></td>
 </tr>
